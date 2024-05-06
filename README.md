@@ -2,4 +2,4 @@
 
 All public/Privately leaked Dark Web Marketplace (DNM) Scripts and source codes.
 
-### For informational purpose only.
+### For informational purposes only.
